@@ -4,7 +4,7 @@
 
 @section('content')
 <main>
-    <h1>Hello World!</h1>
+    <h1>Hello World {{$title}}!</h1>
 </main>
 
 @endsection
